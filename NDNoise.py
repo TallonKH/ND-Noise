@@ -6,7 +6,7 @@ import operator
 
 # NOTICE:
 # This is an implementation of Perlin Noise that works for any dimensionality > 1.
-# It is mostly a proof of concept, and as a result is not fully optimised.
+# It is mostly a proof of concept, and as a result is not fully optimized.
 # If you want to use Perlin Noise, I recommend using a less dynamic implementation.
 
 def average(itr):
